@@ -12,6 +12,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Practica3">
         <activity
+            android:name=".DetalleProdcutoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ProductosActivity"
+            android:exported="false" />
+        <activity
             android:name=".MenuActivity"
             android:exported="false" />
         <activity

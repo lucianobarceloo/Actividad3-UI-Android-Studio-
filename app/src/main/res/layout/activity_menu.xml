@@ -45,74 +45,74 @@
         app:layout_constraintTop_toBottomOf="@+id/tvMenuTitle">
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/button_cold_drinks"
+            android:id="@+id/button_antojitos"
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_columnWeight="1"
             android:layout_margin="@dimen/menu_buttons_margin"
             android:background="@color/rojo"
             android:padding="@dimen/menu_buttons_paddings"
-            android:text="@string/cold_drinks"
+            android:text="@string/antojitos"
             android:textColor="@color/white"
             android:textSize="@dimen/menu_buttons_text" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/button_hot_drinks"
+            android:id="@+id/button_especialidades"
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_columnWeight="1"
             android:layout_margin="@dimen/menu_buttons_margin"
             android:background="@color/rojo"
             android:padding="@dimen/menu_buttons_paddings"
-            android:text="@string/hot_drinks"
+            android:text="@string/especialidades"
             android:textColor="@color/white"
             android:textSize="@dimen/menu_buttons_text" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/button_sweets"
+            android:id="@+id/button_combinaciones"
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_columnWeight="1"
             android:layout_margin="@dimen/menu_buttons_margin"
             android:background="@color/rojo"
             android:padding="@dimen/menu_buttons_paddings"
-            android:text="@string/sweets"
+            android:text="@string/combinaciones"
             android:textColor="@color/white"
             android:textSize="@dimen/menu_buttons_text" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/button_salties"
+            android:id="@+id/button_tortas"
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_columnWeight="1"
             android:layout_margin="@dimen/menu_buttons_margin"
             android:background="@color/rojo"
             android:padding="@dimen/menu_buttons_paddings"
-            android:text="@string/salties"
+            android:text="@string/tortas"
             android:textColor="@color/white"
             android:textSize="@dimen/menu_buttons_text" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/button_combos"
+            android:id="@+id/button_sopas"
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_columnWeight="1"
             android:layout_margin="@dimen/menu_buttons_margin"
             android:background="@color/rojo"
             android:padding="@dimen/menu_buttons_paddings"
-            android:text="@string/combos"
+            android:text="@string/sopas"
             android:textColor="@color/white"
             android:textSize="@dimen/menu_buttons_text" />
 
         <androidx.appcompat.widget.AppCompatButton
-            android:id="@+id/button_custom"
+            android:id="@+id/button_drinks"
             android:layout_width="0dp"
             android:layout_height="120dp"
             android:layout_columnWeight="1"
             android:layout_margin="@dimen/menu_buttons_margin"
             android:background="@color/rojo"
             android:padding="@dimen/menu_buttons_paddings"
-            android:text="@string/custom"
+            android:text="@string/drinks"
             android:textColor="@color/white"
             android:textSize="@dimen/menu_buttons_text" />
 
